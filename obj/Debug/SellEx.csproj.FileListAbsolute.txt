@@ -1,0 +1,168 @@
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\SellEx.dll.config
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\SellEx.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\SellEx.pdb
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\csc.exe
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\csc.exe.config
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\csc.rsp
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\csi.exe
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\csi.exe.config
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\csi.rsp
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\Microsoft.Managed.Core.targets
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.AppContext.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.Collections.Immutable.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.Console.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.IO.Compression.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.IO.FileSystem.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.IO.Pipes.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.Reflection.Metadata.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.Security.AccessControl.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.Security.Claims.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.Security.Principal.Windows.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.ValueTuple.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.Xml.XmlDocument.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.Xml.XPath.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\vbc.exe
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\vbc.exe.config
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\vbc.rsp
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\VBCSCompiler.exe
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\roslyn\VBCSCompiler.exe.config
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\Antlr3.Runtime.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\EntityFramework.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\EntityFramework.SqlServer.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\Microsoft.Web.Infrastructure.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\Newtonsoft.Json.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\System.Diagnostics.DiagnosticSource.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\System.Web.Helpers.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\System.Web.Mvc.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\System.Web.Optimization.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\System.Web.Razor.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\System.Web.WebPages.Deployment.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\System.Web.WebPages.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\System.Web.WebPages.Razor.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\WebGrease.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\EntityFramework.xml
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\EntityFramework.SqlServer.xml
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\System.Web.Helpers.xml
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\System.Web.Mvc.xml
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\System.Web.Optimization.xml
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\System.Web.Razor.xml
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\System.Web.WebPages.xml
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\System.Web.WebPages.Deployment.xml
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\System.Web.WebPages.Razor.xml
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\Newtonsoft.Json.xml
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\Antlr3.Runtime.pdb
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\System.Diagnostics.DiagnosticSource.xml
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\obj\Debug\SellEx.csprojAssemblyReference.cache
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\obj\Debug\SellEx.csproj.CoreCompileInputs.cache
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\obj\Debug\SellEx.csproj.CopyComplete
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\obj\Debug\SellEx.dll
+G:\CSE\Software Developing5(C#)\SellEx\SellEx\obj\Debug\SellEx.pdb
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\SellEx.dll.config
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\SellEx.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\SellEx.pdb
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\csc.exe
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\csc.exe.config
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\csc.rsp
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\csi.exe
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\csi.exe.config
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\csi.rsp
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.AppContext.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.Collections.Immutable.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.Console.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.IO.Compression.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.IO.FileSystem.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.IO.Pipes.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.Reflection.Metadata.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.Security.AccessControl.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.Security.Claims.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.ValueTuple.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.Xml.XPath.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\vbc.exe
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\vbc.exe.config
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\vbc.rsp
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\VBCSCompiler.exe
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\roslyn\VBCSCompiler.exe.config
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\Antlr3.Runtime.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\EntityFramework.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\EntityFramework.SqlServer.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\Microsoft.Web.Infrastructure.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\Newtonsoft.Json.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\System.Web.Helpers.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\System.Web.Mvc.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\System.Web.Optimization.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\System.Web.Razor.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\System.Web.WebPages.Deployment.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\System.Web.WebPages.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\System.Web.WebPages.Razor.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\WebGrease.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\EntityFramework.xml
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\EntityFramework.SqlServer.xml
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\System.Web.Helpers.xml
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\System.Web.Mvc.xml
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\System.Web.Optimization.xml
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\System.Web.Razor.xml
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\System.Web.WebPages.xml
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\System.Web.WebPages.Deployment.xml
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\System.Web.WebPages.Razor.xml
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\Newtonsoft.Json.xml
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\Antlr3.Runtime.pdb
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\obj\Debug\SellEx.csprojAssemblyReference.cache
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\obj\Debug\SellEx.csproj.CoreCompileInputs.cache
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\obj\Debug\SellEx.csproj.CopyComplete
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\obj\Debug\SellEx.dll
+F:\Semester 32\CSE3200 -Software Development-V\SellEx\SellEx\obj\Debug\SellEx.pdb
